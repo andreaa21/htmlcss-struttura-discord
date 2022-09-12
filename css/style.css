@@ -26,6 +26,8 @@
 
 /* /components */
 
+/* HEADER */
+
 .header-top{
   display: flex;
   padding: 20px;
@@ -46,3 +48,22 @@
 .header-top ul li a{
   text-decoration: none;
 }
+
+.header-bottom{
+  display: flex;
+  text-align: center;
+  height: 300px;    /* da togliere */
+  padding: 20px 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-bottom .box-1{
+  width: 50%;
+}
+
+.header-bottom .text{
+  padding: 20px 0;
+}
+
+/* /HEADER */

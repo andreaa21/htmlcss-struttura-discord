@@ -117,3 +117,24 @@
   padding: 20px 0;
 }
 
+/* /SECTION-2 */
+
+/* SECTION-3 */
+
+
+.section-3 .section-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 400px;
+  width: 70%;
+}
+
+.section-3 .section-text{
+  flex-basis: 40%;
+  padding: 10px;
+}
+
+.section-3 .section-text h2{
+  padding: 20px 0;
+}

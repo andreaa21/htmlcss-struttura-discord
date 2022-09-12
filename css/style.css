@@ -174,16 +174,6 @@ footer{
   background-color: #3b384f;
 }
 
-
-
-
-.footer-bottom{
-  display: flex;
-  justify-content: space-between;
-  padding: 20px 0;
-  border-top: 1px solid lightblue;
-}
-
 .footer-top{
   display: flex;
   justify-content: space-between;
@@ -197,6 +187,18 @@ footer{
 }
 .footer-list ul a{
   text-decoration: none;
+  color: white;
+  font-size: 0.8rem;
 }
+
+
+.footer-bottom{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+  border-top: 1px solid lightblue;
+}
+
+
 
 /* /FOOTER */

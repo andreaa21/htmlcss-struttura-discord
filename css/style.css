@@ -162,3 +162,21 @@
   padding: 20px 0;
 }
 /* /SECTION-4 */
+
+
+/* FOOTER */
+footer{
+  background-color: #3b384f;
+}
+
+
+
+
+.footer-bottom{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+  border-top: 1px solid lightblue;
+}
+
+/* /FOOTER */

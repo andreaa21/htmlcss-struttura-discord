@@ -179,4 +179,18 @@ footer{
   border-top: 1px solid lightblue;
 }
 
+.footer-top{
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 10px;
+}
+
+
+.footer-list ul{
+  list-style-type: none;
+}
+.footer-list ul a{
+  text-decoration: none;
+}
+
 /* /FOOTER */

@@ -67,3 +67,53 @@
 }
 
 /* /HEADER */
+
+
+/* MAIN */
+
+/* SECTION-1 */
+
+.section-1 .section-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 400px;
+  width: 70%;
+}
+
+.section-1 .section-text{
+  flex-basis: 40%;
+  padding: 10px;
+}
+
+.section-1 .section-text h2{
+  padding: 20px 0;
+}
+
+/* /SECTION-1 */
+
+
+/* SECTION-2 */
+
+.section-2{
+  background-color: lightgray;
+}
+
+.section-2 .section-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row-reverse;
+  height: 400px;
+  width: 70%;
+}
+
+.section-2 .section-text{
+  flex-basis: 40%;
+  padding: 10px;
+}
+
+.section-2 .section-text h2{
+  padding: 20px 0;
+}
+

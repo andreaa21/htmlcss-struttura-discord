@@ -29,6 +29,10 @@
 /* HEADER */
 
 .header-top{
+  background-color: rgb(88, 88, 228);
+}
+
+.header-top-content{
   display: flex;
   padding: 20px;
   justify-content: space-between;
